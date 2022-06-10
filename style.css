@@ -1,12 +1,5 @@
-@font-face {
-    font-family: "Vollkorn";
-    src: url("http://fonts.googleapis.com/css?family=Vollkorn");
-}
-
-@font-face {
-    font-family: "Rubik";
-    src: url("http://fonts.googleapis.com/css?family=Rubik");
-}
+@import url(//fonts.googleapis.com/css?family=Vollkorn)
+@import url(//fonts.googleapis.com/css?family=Rubik)
 
 body {
     font-family: 'Vollkorn';
